@@ -1,0 +1,6 @@
+[tools]
+bun = "1.2.9"
+go = "1.25.10"
+java = "openjdk-21"
+maven = "3.9.9"
+python = "3.13"
