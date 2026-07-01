@@ -1,0 +1,14 @@
+[core]
+autocrlf = input
+
+[user]
+  name = haseakito
+  email = haseakito@gmail.com
+
+[alias]
+  cm = commit -m
+  st = status
+  br = branch
+  checkout = ch
+  switch = sw
+  log = log --oneline --graph --decorate
